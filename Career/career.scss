@@ -1,0 +1,42 @@
+.carrer_banner{
+	height: 450px;
+	img{
+		width: 100%;
+	}
+}
+
+.expand{
+	background: rgba(180, 176, 176, 0.301) !important;
+}
+
+.searchbox{
+	display: flex !important;
+	align-content: center !important;
+	justify-content: flex-end !important;
+	>span{
+		position: relative;
+		left: 95%;
+		top: 20px;
+		color: rgb(189, 187, 187);
+	}
+}
+
+.career_button {
+	color: #dd4c4b;
+	display: flex;
+	justify-content: flex-end;
+	button{
+		margin-right: 12px;
+		width: 10%;
+	}
+}
+
+.fullWidth {
+	width: 100% !important;
+}
+
+.careerForm {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
